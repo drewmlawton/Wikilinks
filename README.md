@@ -2,10 +2,15 @@
 
 Wikilinks is a lightweight solution to automatically generate links to relevant Wikipedia articles. Simply add the following code to your html head:
 \
+\
 <script src="wikilink.js" defer></script>
 &lt;link rel="stylesheet" type="text/css" href="wikilink.css"&gt;
 \
+\
 And use <wiki> tags to automatically generate links to relevant Wikipedia pages.
+\
+\
+\
 \
 \
 \
@@ -13,9 +18,11 @@ For instance, if I have:
 
 Notable Georgia Tech athletes include Calvin Johnson and Chris Bosh.
 \
+\
 I can use:
 
 Notable <wiki>Georgia Tech</wiki> athletes include <wiki>Calvin Johnson</wiki> and <wiki>Christ Bosh</wiki>.
+\
 \
 To generate:
 
