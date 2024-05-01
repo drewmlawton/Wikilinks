@@ -3,7 +3,7 @@
 Wikilinks is a lightweight solution to automatically generate links to relevant Wikipedia articles. Simply add the following code to your html head:
 
 <script src="wikilink.js" defer></script>
-&ltlink rel="stylesheet" type="text/css" href="wikilink.css"&gt
+&lt;link rel="stylesheet" type="text/css" href="wikilink.css"&gt;
 
 And use <wiki> tags to automatically generate links to relevant Wikipedia pages.
 
