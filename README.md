@@ -14,7 +14,9 @@ For instance, if I have:
 Notable Georgia Tech athletes include Calvin Johnson and Chris Bosh.
 
 I can use:
+
 Notable <wiki>Georgia Tech</wiki> athletes include <wiki>Calvin Johnson</wiki> and <wiki>Christ Bosh</wiki>.
 
 To generate:
+
 Notable [Georgia Tech](https://www.wikipedia.org/wiki/Georgia_Tech) athletes include [Calvin Johnson](https://www.wikipedia.org/wiki/Calvin_Johnson) and [Chris Bosh](https://www.wikipedia.org/wiki/Chris_Bosh).
