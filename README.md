@@ -6,7 +6,7 @@ Wikilinks are a lightweight solution to automatically generate links to relevant
 &lt;link rel="stylesheet" type="text/css" href="wikilink.css"&gt;
 \
 \
-And use <wiki> tags to automatically generate links to relevant Wikipedia pages.
+And use &lt;wiki&gt; tags to automatically generate links to relevant Wikipedia pages.
 \
 \
 \
