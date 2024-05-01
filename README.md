@@ -1,6 +1,6 @@
 # Wikilinks
 
-Wikilinks is a lightweight solution to automatically generate links to relevant Wikipedia articles. Simply add the following code to your html head:
+Wikilinks are a lightweight solution to automatically generate links to relevant Wikipedia articles. Simply add the following code to your html head:
 
 <script src="wikilink.js" defer></script>
 &lt;link rel="stylesheet" type="text/css" href="wikilink.css"&gt;
