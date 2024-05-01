@@ -17,7 +17,7 @@ Notable Georgia Tech athletes include Calvin Johnson and Chris Bosh.
 \
 I can use:
 
-Notable <wiki>Georgia Tech</wiki> athletes include <wiki>Calvin Johnson</wiki> and <wiki>Christ Bosh</wiki>.
+Notable &lt;wiki&gt;Georgia Tech&lt;/wiki&gt; athletes include &lt;wiki&gt;Calvin Johnson&lt;/wiki&gt; and &lt;wiki&gt;Chris Bosh&lt;/wiki&gt;.
 \
 \
 To generate:
